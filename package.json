@@ -1,0 +1,11 @@
+{
+    "name": "distroless-foundry-cli",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Distroless foundly CLI",
+    "dependencies": {
+      "@foundryvtt/foundryvtt-cli": "1.0.3"
+    },
+    "author": "Luca Gioppo",
+    "license": "AGPL"
+  }
